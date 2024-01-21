@@ -20,7 +20,8 @@
         display: none;
      }
      .top-details h2 {
-        font-size: 30px;
+        margin-top: 20px;
+        font-size: 18px;
     }
     .product-single-title{
         margin-top: 30px;
@@ -89,6 +90,28 @@
     .product-details-main h5 {
         font-size: 18px;
     }
-    
+    .about-photo img {
+        margin-bottom: 30px;
+    }
+    .about-details {
+        margin-left: 0px; 
+    }
+    .about-box{
+      margin-top: 0px;
+        padding: 15px;
+    }
+    .expertise-main{
+        margin-top: 0;
+    }
+    .mar-top{
+        margin-top: 30px;
+    }
+    #expertise {
+        padding: 0px ;
+        padding-bottom: 50px;
+    }
+    .PhuChem-box img{
+        margin-top: 20px;
+    }
 
 }

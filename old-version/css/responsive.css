@@ -1,0 +1,94 @@
+@media screen and (max-width: 720px){
+
+    #head-top {
+        display: none;
+    }
+    .top-details {
+        width: 100%;
+    }
+    .slider {
+        padding: 30px 0;
+        height: auto;
+    }
+    .slider h1{
+        font-size: 30px;
+    }
+    .arrow-left {
+       display: none;
+    }
+    .arrow-right {
+        display: none;
+     }
+     .top-details h2 {
+        font-size: 30px;
+    }
+    .product-single-title{
+        margin-top: 30px;
+    }
+    .top-details p {
+        font-size: 17px;
+        margin-top: 20px;
+    }
+    .gobal-btn a {
+        padding: 7px 35px;
+    }
+    .product-title h1 {
+        font-size: 32px;
+    }
+    .about-box img {
+        margin-bottom: 40px;
+    }
+    .contact-list{
+        text-align: center;
+    }
+    .nav-item{
+        padding-left: 0!important;
+        padding-bottom: 15px;
+    }
+    .contact-main {
+        width: 100%;
+    }
+    .contact-list ul li a {
+        margin-right: 0px; 
+    }
+    .contact-list ul li {
+        margin-right: 0px; 
+    }
+    .contact-list ul {
+        display: block;
+    }
+    .contact-list ul li {
+        margin-bottom: 15px;
+    }
+    #contact {
+        padding: 70px 0;
+    }
+    .resources {
+        padding-left: 0px;
+        margin: 30px 0; 
+    }
+    .footer-main {
+        padding: 60px 0;
+    }
+    .icone{
+        text-align: left;
+    }
+    .icone ul {
+        display: flex;
+        text-align: left;
+        justify-content: left;
+        margin: 0;
+    }
+    .icone ul li{
+        margin-right: 30px;
+    }
+    .product-details-btom {
+        margin: 50px 0; 
+        
+    }
+    .product-details-main h5 {
+        font-size: 18px;
+    }
+    
+
+}
