@@ -28,7 +28,7 @@ h3{
 }
 
 #head-top{
-    background: #0376CF;
+    background: #1400FF;
 }
 .head-main{
     display: flex;
@@ -77,13 +77,17 @@ h3{
 }
 .navbar-brand{
     text-decoration: none;
-    color: #0376CF;
+    color: #1400FF;
     font-size: 42px;
     font-weight: 600;
 }
 .navbar-brand:hover{
-    color: #0376CF;
+    color: #1400FF;
 } 
+
+.navbar-brand img{
+    width: 150px;
+}
 
 
 .nav-item{
@@ -158,7 +162,7 @@ h3{
     background: rgba(3, 118, 207, 0.74);
 }
 .gobal-btn a:hover{
-    background: #0376CF;
+    background: #1400FF;
 }
 .top-img img {
     max-width: 100%;
@@ -242,7 +246,7 @@ h3{
     font-weight: 600;
 }
 .product-title h1 span{
-    color:  #0376CF;
+    color:  #1400FF;
 }
 .product-all{
     margin-top: 50px;
@@ -349,6 +353,10 @@ h3{
 }
 .contact-list ul li{
     margin-right: 5px; 
+    width: 30%;
+    background: #00000063;
+    padding: 20px;
+    margin-bottom: 20px;
 }
 .contact-list ul li a{
     text-decoration: none;
@@ -416,7 +424,7 @@ h3{
     text-decoration: none;
     padding:5px 30px;
     border-radius: 4px;
-    background: #0376CF;
+    background: #1400FF;
     color: #FFF;
     font-weight: 600;
 }
@@ -456,7 +464,7 @@ h3{
 #footer{
     display: flex;
     width: 100%;
-    background: #0376CF;
+    background: #1400FF;
     color: #FFF;
 }
 
@@ -499,13 +507,13 @@ h3{
 .contact ul li a i{
     margin-right: 8px;
 }
-.contact-list ul{
+.icone ul{
     display: flex;
 }
-.contact-list ul li a{
+ .icone ul li a{
     margin-right: 20px;
 }
-.contact-list ul li a img{
+ .icone ul li a img{
     width: 35px;
 }
 .reserved{
