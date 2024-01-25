@@ -113,5 +113,8 @@
     .PhuChem-box img{
         margin-top: 20px;
     }
+    .search-input {
+        width: 90%;
+    }
 
 }
