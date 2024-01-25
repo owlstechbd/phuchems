@@ -630,13 +630,13 @@ h3{
     justify-content: center;
 }
 
-.search-input{
+.search-input {
     font-size: inherit;
     color: inherit;
     font-family: inherit;
     border: none;
-    padding: 10px 15px;
-    width: 30%;
+    padding: 15px 21px;
+    width: 37%;
     border-radius: 50px;
     border: 1px #ddd solid;
     transition: all .4s;
