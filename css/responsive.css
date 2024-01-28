@@ -116,5 +116,8 @@
     .search-input {
         width: 90%;
     }
+    .contact-list ul li{
+        width: 100%;
+    }
 
 }
